@@ -121,19 +121,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"Projeto Next@workspace:.":
-  version: 0.0.0-use.local
-  resolution: "Projeto Next@workspace:."
-  dependencies:
-    "@fortawesome/fontawesome-svg-core": ^6.4.0
-    "@fortawesome/free-solid-svg-icons": ^6.4.0
-    "@fortawesome/react-fontawesome": ^0.2.0
-    next: ^13.4.1
-    react: ^18.2.0
-    react-dom: ^18.2.0
-  languageName: unknown
-  linkType: soft
-
 "busboy@npm:1.6.0":
   version: 1.6.0
   resolution: "busboy@npm:1.6.0"
@@ -269,6 +256,19 @@ __metadata:
   checksum: fe58766ff32e4becf65a7d57678995cfd239df6deed2fe0557f038b47c94e4132e7e5f68b5aa820c13adfec32e523b693efaeb65798efb995ce49ccd83953816
   languageName: node
   linkType: hard
+
+"projetonext@workspace:.":
+  version: 0.0.0-use.local
+  resolution: "projetonext@workspace:."
+  dependencies:
+    "@fortawesome/fontawesome-svg-core": ^6.4.0
+    "@fortawesome/free-solid-svg-icons": ^6.4.0
+    "@fortawesome/react-fontawesome": ^0.2.0
+    next: ^13.4.1
+    react: ^18.2.0
+    react-dom: ^18.2.0
+  languageName: unknown
+  linkType: soft
 
 "prop-types@npm:^15.8.1":
   version: 15.8.1
