@@ -1,5 +1,5 @@
 {
-  "name": "Projeto Next",
+  "name": "projetonext",
   "packageManager": "yarn@3.5.1",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.4.0",
