@@ -1,0 +1,5 @@
+{
+    "explorer.fileNesting.enabled": false,
+    "scm.alwaysShowRepositories": false,
+    "scm.defaultViewMode": "list"
+}
